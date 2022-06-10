@@ -1,5 +1,7 @@
 # phone_cleaner_ui
 
+![Screenshot_20220610-135504](https://user-images.githubusercontent.com/78877010/173050811-5e41a2db-7e79-4e36-8ed0-5c8aeb660367.png)
+
 A new Flutter project.
 
 ## Getting Started
